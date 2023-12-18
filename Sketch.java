@@ -1,3 +1,11 @@
+/*
+ * This program is a game of showflake dodging game
+ * @author: Grod0nH
+ */
+
+
+
+
 import processing.core.PApplet;
 import processing.core.PImage;
 
